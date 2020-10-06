@@ -1,0 +1,14 @@
+body {
+    margin-top: 70px;
+    background: #333;
+    color: #fff;
+}
+
+.card-block h4 {
+    background-color: #eee;
+}
+
+.row {
+    background: beige;
+    height: 400px;
+}
